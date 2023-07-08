@@ -49,5 +49,10 @@ public class LandingPage extends AbstractComponent {
 	public void goTo() {
 		driver.get("https://rahulshettyacademy.com/client");
 	}	
+	
+	public void gitBrachTest() {
+//		This is testing Branches
+		System.out.println("Branch Test 1");
+	}
 
 }
