@@ -92,6 +92,9 @@ public class BaseTest {
 	public void closeBrowser() throws InterruptedException {
 //		Thread.sleep(5000);
 		driver.close();
+		System.out.println("Test Git By N 1");
+		System.out.println("Test Git By N 2");
+		System.out.println("Test Git By N 3");
 	}
 	
 	
