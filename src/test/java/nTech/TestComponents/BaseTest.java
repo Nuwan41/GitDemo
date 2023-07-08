@@ -95,6 +95,16 @@ public class BaseTest {
 		System.out.println("Test Git By N 1");
 		System.out.println("Test Git By N 2");
 		System.out.println("Test Git By N 3");
+		
+//		Test Git Comment 4
+//		Test Git Comment 5
+//		Test Git Comment 6
+		
+		System.out.println("Test Git By N AmG 4");
+		System.out.println("Test Git By N AmG 5");
+		System.out.println("Test Git By N AmG 6");
+		System.out.println("Test Git By N AmG 7");
+		
 	}
 	
 	
